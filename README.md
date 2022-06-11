@@ -1,1 +1,1 @@
-# spring_autowiring
+# spring-example-autowiring
